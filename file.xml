@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">DQB_2_Page_01.jpg<lb/></title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <p>
+      <lb/>
+      WBE <lb/>
+      <persName>ABBAT, Robert, Sr.</persName>, <date, type="death">1763</date>. <lb/>
+      Established the first water supply in Preston, Lancs. <lb/>
+      <date, type="birth">Eng., 1729</date> Used wooded pipes bored from tree-trunks The <lb/>
+      Corporation fined him for supplying water on Good Friday, he <lb/>
+      there upon did not furnish water on Sixth-Days (Fridays), claiming <lb/>
+      that all Fridays were Good Fridays. <lb/>
+      d <date, type="death">1763</date>. <lb/>
+      J.P. H.S. 22, p 11 <lb/>
+      The Friend Phila 99, p. 513. <lb/> 
+    </p>
+  </text>
+</TEI>
